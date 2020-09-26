@@ -1,3 +1,8 @@
 ## Database-Development
 
-In this project you will see Database design including sql (creating tables), sql queries (retrieving data, joining tables), conceptual model, physcial model and logical model of Database
+In this project you will see:
+- Database design including sql (creating tables)
+- Sql queries (retrieving data, joining tables)
+- Conceptual model
+- Physcial model
+- Logical model
