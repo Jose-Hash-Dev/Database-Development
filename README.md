@@ -1,6 +1,6 @@
 ## Description
 
-#### A final exam project from 3rd semester Database course at University of Latvia. The aim of the project is to create a database for cinema company with all details starting from creating database with SQL, inserting data to database tables, creating modes such as physical, logical and conceptual models, retrieving data from database.
+#### A final exam project from 3rd semester Database course at University of Latvia. The aim of the project is to create a database for cinema company with all details starting from creating database with SQL, inserting data to database tables, creating models such as physical, logical and conceptual models, retrieving data from database.
 
 ## Content
 - Database Design
