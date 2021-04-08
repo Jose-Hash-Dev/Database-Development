@@ -1,4 +1,4 @@
-## Contents
+## Content
 
 In this project you will see:
 - Database design with sql (creating tables)
