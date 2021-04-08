@@ -12,8 +12,9 @@
 ## Examples from project
 
 - Database design with sql (creating tables and inserting data)
-![SQL 2](https://user-images.githubusercontent.com/66011783/114092781-f36cc000-98c2-11eb-8e2b-4b8a3a642965.PNG)
-![SQL 3](https://user-images.githubusercontent.com/66011783/114092792-f7004700-98c2-11eb-8094-1107444f8233.PNG)
+![SQL](https://user-images.githubusercontent.com/66011783/114096459-67a96280-98c7-11eb-971b-98654bc1b8d5.PNG)
+![SQL 2](https://user-images.githubusercontent.com/66011783/114096466-6a0bbc80-98c7-11eb-8cb4-b52f9c55d555.PNG)
+![SQL 3](https://user-images.githubusercontent.com/66011783/114096475-6bd58000-98c7-11eb-8da1-6a7b39e3baae.PNG)
 - Sql queries (retrieving data, joining tables)
 ![Queries](https://user-images.githubusercontent.com/66011783/114092746-e94ac180-98c2-11eb-9653-09e32aabacbe.PNG)
 - Conceptual model
