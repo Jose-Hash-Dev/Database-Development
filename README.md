@@ -9,6 +9,8 @@
 - Physical Model
 - Logical Model
 
+## Examples from project
+
 - Database design with sql (creating tables and inserting data)
 ![SQL 2](https://user-images.githubusercontent.com/66011783/114092781-f36cc000-98c2-11eb-8e2b-4b8a3a642965.PNG)
 ![SQL 3](https://user-images.githubusercontent.com/66011783/114092792-f7004700-98c2-11eb-8094-1107444f8233.PNG)
