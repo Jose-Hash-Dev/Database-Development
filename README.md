@@ -1,5 +1,13 @@
+## Description
+
+#### A final exam project from 3rd semester Database course at University of Latvia. The aim of the project is to create a database for cinema company with all details starting from creating database with SQL, inserting data to database tables, creating modes such as physical, logical and conceptual models, retrieving data from database.
+
 ## Content
-#### A final exam project from 3rd semester Database course at University of Latvia. The aim of the project is to create a database for cinema company with all details starting from creating database with SQL, inserting data to database tables, creating modes such as physical, logical and Chan syntax, retrieving data from database.
+- Database Design
+- SQL Queries
+- Conceptual Model
+- Physical Model
+- Logical Model
 
 - Database design with sql (creating tables and inserting data)
 ![SQL 2](https://user-images.githubusercontent.com/66011783/114092781-f36cc000-98c2-11eb-8e2b-4b8a3a642965.PNG)
