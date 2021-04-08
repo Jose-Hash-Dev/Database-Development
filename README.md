@@ -13,8 +13,8 @@
 
 - Database design with sql (creating tables and inserting data)
 ![SQL](https://user-images.githubusercontent.com/66011783/114096459-67a96280-98c7-11eb-971b-98654bc1b8d5.PNG)
-![SQL 2](https://user-images.githubusercontent.com/66011783/114096466-6a0bbc80-98c7-11eb-8cb4-b52f9c55d555.PNG)
 - Total 1480 lines in SQL code
+![SQL 2](https://user-images.githubusercontent.com/66011783/114096466-6a0bbc80-98c7-11eb-8cb4-b52f9c55d555.PNG)
 ![SQL 3](https://user-images.githubusercontent.com/66011783/114096475-6bd58000-98c7-11eb-8da1-6a7b39e3baae.PNG)
 - Sql queries (retrieving data, joining tables)
 ![Queries](https://user-images.githubusercontent.com/66011783/114092746-e94ac180-98c2-11eb-9653-09e32aabacbe.PNG)
