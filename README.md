@@ -3,7 +3,7 @@
 #### A final exam project from 3rd semester Database course at University of Latvia. The aim of the project is to create a database for cinema company with all details starting from creating database with SQL, inserting data to database tables, creating models such as physical, logical and conceptual models, retrieving data from database.
 
 ## Content
-- Database Design
+- Database Design (1480 lines SQL code)
 - SQL Queries
 - Conceptual Model
 - Physical Model
@@ -13,7 +13,6 @@
 
 - Database design with sql (creating tables and inserting data)
 ![SQL](https://user-images.githubusercontent.com/66011783/114096459-67a96280-98c7-11eb-971b-98654bc1b8d5.PNG)
-![SQL 2](https://user-images.githubusercontent.com/66011783/114096466-6a0bbc80-98c7-11eb-8cb4-b52f9c55d555.PNG)
 ![SQL 3](https://user-images.githubusercontent.com/66011783/114096475-6bd58000-98c7-11eb-8da1-6a7b39e3baae.PNG)
 - Sql queries (retrieving data, joining tables)
 ![Queries](https://user-images.githubusercontent.com/66011783/114092746-e94ac180-98c2-11eb-9653-09e32aabacbe.PNG)
